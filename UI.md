@@ -1,8 +1,8 @@
-事件传递
-视图响应
-图像显示原理（卡顿、掉帧）
-绘制原理
-异步绘制
-离屏渲染
-
-![img](https://raw.githubusercontent.com/mengzhihoing/ios_/ui/ui1.PNG)
+事件传递 
+视图响应 
+图像显示原理（卡顿、掉帧） 
+绘制原理 
+异步绘制 
+离屏渲染 
+ 
+![img](/ui/ui1.png)
