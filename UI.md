@@ -5,4 +5,4 @@
 异步绘制 
 离屏渲染 
  
-![img](/ui/ui1.png)
+![img](/ui/ui1.PNG)
