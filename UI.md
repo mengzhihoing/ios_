@@ -5,15 +5,15 @@
 异步绘制 
 离屏渲染 
  
-![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui1.png)
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui1.png) . 
 
-![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui2.png)
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui2.png) .  
 
-![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui3.png)
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui3.png) .    
 
-![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui4.png)
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui4.png) .   
 
-![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui5.png)
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui5.png) .  
 
 ![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui6.png)
 
