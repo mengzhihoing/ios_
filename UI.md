@@ -59,9 +59,3 @@
 ![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui18.png) 
 -----------------------------------------------------------------------------
 
-![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui19.png) 
------------------------------------------------------------------------------
-
-![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui20.png) 
------------------------------------------------------------------------------
-
