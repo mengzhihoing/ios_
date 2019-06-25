@@ -7,6 +7,7 @@
  
 ![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui1.png) 
 -----------------------------------------------------------------------------
+
 ![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui2.png) 
 -----------------------------------------------------------------------------
 
@@ -18,3 +19,49 @@
 
 ![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui5.png) 
 -----------------------------------------------------------------------------
+
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui6.png) 
+-----------------------------------------------------------------------------
+
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui7.png) 
+-----------------------------------------------------------------------------
+
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui8.png) 
+-----------------------------------------------------------------------------
+
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui9.png) 
+-----------------------------------------------------------------------------
+
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui10.png) 
+-----------------------------------------------------------------------------
+
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui11.png) 
+-----------------------------------------------------------------------------
+
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui12.png) 
+-----------------------------------------------------------------------------
+
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui13.png) 
+-----------------------------------------------------------------------------
+
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui14.png) 
+-----------------------------------------------------------------------------
+
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui15.png) 
+-----------------------------------------------------------------------------
+
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui16.png) 
+-----------------------------------------------------------------------------
+
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui17.png) 
+-----------------------------------------------------------------------------
+
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui18.png) 
+-----------------------------------------------------------------------------
+
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui19.png) 
+-----------------------------------------------------------------------------
+
+![img](https://raw.githubusercontent.com/mengzhihoing/ios_/master/ui/ui20.png) 
+-----------------------------------------------------------------------------
+
